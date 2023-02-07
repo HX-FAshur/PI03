@@ -93,5 +93,3 @@ Puede encontrar toda la información inicial de este proyecto en: https://github
 Los cursos masivos abiertos y online han tenido un gran auge en los últimos tiempos  además de que instituciones y universidades se han sumado a dicho mundo. Actualmente los cursos más demandados y con mayor número de ventas son los cursos enfocados a áreas como Computación y ciencias, desarrollo web y Finanzas. Así, mismo podemos concluir que los cursos que generan un mayor ingreso se encuentran en el idioma Inglés.
 
 Gracias por haber llegado hasta aquí 💛.
-
-Les dejo mi LinkedIn https://www.linkedin.com/in/camilo-pedreros-106a1a245/ ¿Conectamos? 😉
